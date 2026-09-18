@@ -1,0 +1,6 @@
+{
+  "name": "Öğretmen ve Öğrenci Eğitim Platformu",
+  "description": "Öğretmen ve öğrenciler için ayrı paneller, ödev takibi, video izleme raporları, eğitici oyunlar ve kişiselleştirilebilir öğrenci çalışma alanı sunan eğitim portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
